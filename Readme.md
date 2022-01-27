@@ -2,10 +2,20 @@
 
 ## Aktuality
 
+27.1.2022 - [Report](reports/01.01.2022%20-%2027.01.2022) obsahuje všechny zjištěné mutace diskriminačními RT-PCR testy v ČR u pacientů, kterým byla vystavená žádanka na test v OC VFN v období mezi 1.1.2022 a 27.1.2022 v následujícím formátu:
+
+````
+[dd.] [mm.] [yyyy] [číslo žádanky] [název mutace] [výsledek = pozitivní/negativní]
+````
+* [ a ] značí sloupce, které jsou oddělené mezerou
+
+`
+
 26.1.2022 - [Report](reports/01.01.2021%20-%2024.01.2022) obsahuje všechny zjištěné mutace diskriminačními RT-PCR testy v ČR u pacientů, kterým byla vystavená žádanka na test v OC VFN v období mezi 1.1.2021 a 24.1.2022 v následujícím formátu:
 
-[dd.] [mm.] [yyyy]_[číslo žádanky]_[název pozitivní mutace]
-
+````
+[dd.] [mm.] [yyyy] [číslo žádanky] [název pozitivní mutace]
+````
 * [ a ] značí sloupce, které jsou oddělené mezerou
 
 ## Odkazy k vyhodnocování reportu
