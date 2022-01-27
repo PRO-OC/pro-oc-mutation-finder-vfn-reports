@@ -1,5 +1,7 @@
 # PRO OC Mutation finder VFN reports
 
+Jedná se o subsety dat z ISIN zasílané k vyhodnocení národní referenční laboratoři v ČR - NRL pro chřipku. Zprávy k výsledkům NRF pravidelně přidává na [této](http://www.szu.cz/tema/prevence/celogenomova-sekvenace-v-cr-2021-souhrnna-zprava) stránce.
+
 ## Aktuality
 
 27.1.2022 - [Report](reports/01.01.2022%20-%2027.01.2022) obsahuje všechny zjištěné mutace diskriminačními RT-PCR testy v ČR u pacientů, kterým byla vystavená žádanka na test v OC VFN v období mezi 1.1.2022 a 27.1.2022 v následujícím formátu:
