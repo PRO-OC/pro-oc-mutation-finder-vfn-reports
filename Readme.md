@@ -8,8 +8,8 @@
 
 * [ a ] značí sloupce, které jsou oddělené mezerou
 
-
 ## Odkazy k vyhodnocování reportu
 
-[Dasta ČR SARS-CoV-2](https://dastacr.cz/SARS-CoV-2.html)
+[Přehledy zpracované Národní referenční laboratoří pro SARS-CoV-2 - NRL pro chřipku](https://dastacr.cz/SARS-CoV-2.html)\
+[Outbreak.info](https://outbreak.info/situation-reports)
 
