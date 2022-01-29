@@ -20,6 +20,8 @@ Tato data obsahují kromě věku (data narození), který NRF ve zprávě k výs
 ```
 * [ a ] značí sloupce, které jsou oddělené mezerou
 
+29.1.2022 - Report z roku 2020 není, nejsou pro něj data.
+
 ## Odkazy k vyhodnocování reportu
 
 [Přehledy zpracované Národní referenční laboratoří pro SARS-CoV-2 - NRL pro chřipku](https://dastacr.cz/SARS-CoV-2.html)\
