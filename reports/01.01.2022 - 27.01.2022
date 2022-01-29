@@ -1,55 +1,221 @@
-11.1.2022 4666037970 Del69-70 Pozitivní
-11.1.2022 4666037970 E484K Pozitivní
-11.1.2022 4666037970 K417N Pozitivní
-11.1.2022 4666037970 K417T Pozitivní
-11.1.2022 5233707777 Del69-70 Pozitivní
-11.1.2022 5233707777 E484K Pozitivní
-11.1.2022 5233707777 K417N Pozitivní
-11.1.2022 5233707777 K417T Pozitivní
-11.1.2022 7337063288 Del69-70 Pozitivní
-11.1.2022 7337063288 E484K Pozitivní
-11.1.2022 7337063288 K417N Pozitivní
-11.1.2022 7337063288 K417T Pozitivní
-12.1.2022 1386690086 K417N Pozitivní
-12.1.2022 1386690086 L452R Pozitivní
-12.1.2022 1400413424 Del69-70 Pozitivní
-12.1.2022 1400413424 E484K Pozitivní
-12.1.2022 1400413424 K417N Pozitivní
-12.1.2022 1468765351 Del69-70 Pozitivní
-12.1.2022 1468765351 E484K Pozitivní
-12.1.2022 1468765351 K417N Pozitivní
-12.1.2022 1468765351 K417T Pozitivní
-12.1.2022 1468765351 N501Y Pozitivní
-12.1.2022 2545376436 Del69-70 Pozitivní
-12.1.2022 2545376436 E484K Pozitivní
-12.1.2022 2545376436 K417N Pozitivní
-12.1.2022 2545376436 K417T Pozitivní
-12.1.2022 2545376436 N501Y Pozitivní
-12.1.2022 3922516476 Del69-70 Pozitivní
-12.1.2022 3922516476 E484K Pozitivní
-12.1.2022 3922516476 K417N Pozitivní
-12.1.2022 5548444844 Del69-70 Pozitivní
-12.1.2022 5548444844 E484K Pozitivní
-12.1.2022 5548444844 K417N Pozitivní
-12.1.2022 5548444844 K417T Pozitivní
-12.1.2022 5719327174 K417N Pozitivní
-12.1.2022 5719327174 K417T Pozitivní
-12.1.2022 6436079503 Del69-70 Pozitivní
-12.1.2022 6436079503 K417N Pozitivní
-15.1.2022 1468765351 A570D Negativní
-15.1.2022 1468765351 L452R Negativní
-15.1.2022 1468765351 Y505H Pozitivní
-17.1.2022 8024577017 A570D Negativní
-17.1.2022 8024577017 L452R Negativní
-17.1.2022 8024577017 Y505H Pozitivní
-19.1.2022 8706743517 L452R Negativní
-19.1.2022 8706743517 Y505H Pozitivní
-21.1.2022 5075423907 P681R Negativní
-2.1.2022 2990218714 Del69-70 Pozitivní
-2.1.2022 2990218714 K417N Pozitivní
-5.1.2022 3030669682 Del69-70 Pozitivní
-5.1.2022 3030669682 E484K Pozitivní
-6.1.2022 3737366921 Del69-70 Pozitivní
-6.1.2022 3737366921 E484K Pozitivní
-6.1.2022 6003207841 Del69-70 Pozitivní
-6.1.2022 6003207841 E484K Pozitivní
+ 19.07.2021 6907778154 23.12.1992 žena A570D Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.07.2021 6907778154 23.12.1992 žena E484K Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.08.2021 3032525969 10.10.1991 žena L452R Pozitivní PHA-433&Všeobecná fakultní nemocnice v Praze, ULBLD, Sérologická laboratoř&64165
+ 15.08.2021 3032525969 10.10.1991 žena P681R Pozitivní PHA-433&Všeobecná fakultní nemocnice v Praze, ULBLD, Sérologická laboratoř&64165
+ 02.01.2022 2990218714 05.06.2001 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 02.01.2022 2990218714 05.06.2001 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 05.01.2022 3030669682 01.12.1990 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 05.01.2022 3030669682 01.12.1990 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 06.01.2022 3737366921 08.05.1971 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 06.01.2022 3737366921 08.05.1971 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 06.01.2022 6003207841 05.01.1991 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 06.01.2022 6003207841 05.01.1991 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 4666037970 10.03.1987 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 4666037970 10.03.1987 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 4666037970 10.03.1987 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 4666037970 10.03.1987 muž K417T Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 5233707777 31.10.1987 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 5233707777 31.10.1987 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 5233707777 31.10.1987 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 5233707777 31.10.1987 muž K417T Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 7337063288 01.07.1987 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 7337063288 01.07.1987 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 7337063288 01.07.1987 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 11.01.2022 7337063288 01.07.1987 muž K417T Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1386690086 17.04.1995 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1386690086 17.04.1995 muž L452R Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1400413424 23.03.1987 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1400413424 23.03.1987 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1400413424 23.03.1987 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1468765351 28.06.2011 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1468765351 28.06.2011 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1468765351 28.06.2011 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1468765351 28.06.2011 muž K417T Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 1468765351 28.06.2011 muž N501Y Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 2545376436 04.09.2017 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 2545376436 04.09.2017 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 2545376436 04.09.2017 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 2545376436 04.09.2017 muž K417T Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 2545376436 04.09.2017 muž N501Y Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 3922516476 04.05.1996 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 3922516476 04.05.1996 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 3922516476 04.05.1996 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 5548444844 17.07.1997 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 5548444844 17.07.1997 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 5548444844 17.07.1997 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 5548444844 17.07.1997 žena K417T Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 5719327174 04.12.1988 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 5719327174 04.12.1988 muž K417T Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 6436079503 26.11.1994 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 12.01.2022 6436079503 26.11.1994 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 3238100858 17.03.1977 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 3495565896 31.01.2001 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 4703149447 18.09.1988 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 5697115105 10.01.1999 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 5697115105 10.01.1999 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 5857792927 01.05.1989 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 5857792927 01.05.1989 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 14.01.2022 6651421970 16.12.1987 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 1468765351 28.06.2011 muž A570D Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 1468765351 28.06.2011 muž L452R Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 1468765351 28.06.2011 muž Y505H Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 1805270976 08.12.2014 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 1805270976 08.12.2014 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 4896491051 29.03.1968 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 4896491051 29.03.1968 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 4896491051 29.03.1968 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 8981884114 25.09.1956 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 8981884114 25.09.1956 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 8981884114 25.09.1956 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 9785551057 01.01.1983 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 9785551057 01.01.1983 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 15.01.2022 9785551057 01.01.1983 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 16.01.2022 1698586963 21.08.2002 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 16.01.2022 1698586963 21.08.2002 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 16.01.2022 1698586963 21.08.2002 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 16.01.2022 4127906928 23.12.1993 muž Del69-70 Pozitivní 
+ 16.01.2022 4127906928 23.12.1993 muž E484K Pozitivní 
+ 16.01.2022 4127906928 23.12.1993 muž K417N Pozitivní 
+ 16.01.2022 7781498573 16.08.1980 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 16.01.2022 7781498573 16.08.1980 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 16.01.2022 7781498573 16.08.1980 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 1382361939 28.03.1964 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 1382361939 28.03.1964 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 1382361939 28.03.1964 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 4072495971 06.02.1997 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 4072495971 06.02.1997 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 4072495971 06.02.1997 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 5037041708 29.03.2006 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 5037041708 29.03.2006 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 5037041708 29.03.2006 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 5595493617 07.04.1988 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 5595493617 07.04.1988 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 5595493617 07.04.1988 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 7251365595 23.05.1997 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 7251365595 23.05.1997 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 7251365595 23.05.1997 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 8024577017 19.10.1998 žena A570D Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165,PHA-351&PREVEDIG medical, s.r.o.&5616018
+ 17.01.2022 8024577017 19.10.1998 žena L452R Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165,PHA-351&PREVEDIG medical, s.r.o.&5616018
+ 17.01.2022 8024577017 19.10.1998 žena Y505H Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165,PHA-351&PREVEDIG medical, s.r.o.&5616018
+ 17.01.2022 8665953619 06.08.2010 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 8665953619 06.08.2010 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 8672564728 17.03.1991 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 8672564728 17.03.1991 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 17.01.2022 8672564728 17.03.1991 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 2237504761 29.11.1959 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 2237504761 29.11.1959 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 6349459230 17.06.1978 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 6349459230 17.06.1978 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 6696188638 24.02.1996 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 6696188638 24.02.1996 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 9192009789 19.08.1994 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 9528980595 24.05.1970 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 9528980595 24.05.1970 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 9799472342 01.01.1995 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 18.01.2022 9799472342 01.01.1995 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 1958549331 21.09.1985 žena Y505H Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 2941699584 18.04.2000 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 2941699584 18.04.2000 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 2941699584 18.04.2000 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 3262340853 01.07.1999 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 3262340853 01.07.1999 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 3262340853 01.07.1999 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 3496122785 08.11.1987 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 3496122785 08.11.1987 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 7353168362 01.07.1999 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 7353168362 01.07.1999 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 7353168362 01.07.1999 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 7829651680 19.09.1972 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 7829651680 19.09.1972 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 7829651680 19.09.1972 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8391567897 28.12.1964 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8391567897 28.12.1964 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8391567897 28.12.1964 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8465229065 23.02.1955 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8465229065 23.02.1955 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8656125643 01.03.1999 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8656125643 01.03.1999 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8656125643 01.03.1999 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8706743517 20.06.2014 muž L452R Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 8706743517 20.06.2014 muž Y505H Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 9725051108 28.12.1964 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 9725051108 28.12.1964 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 19.01.2022 9725051108 28.12.1964 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 3321676760 04.08.1989 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 3321676760 04.08.1989 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 3393040189 17.04.1971 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 3481903600 10.03.1985 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 3753918719 26.01.1996 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 5075423907 09.05.1988 žena P681R Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 5287810073 20.05.1990 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 5545697242 25.10.1972 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 5545697242 25.10.1972 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 7190808456 30.06.2007 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 7872248176 29.01.1970 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 8374838312 03.06.1991 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 8761298611 28.12.1975 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 9794828635 25.06.1998 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 21.01.2022 9794828635 25.06.1998 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 1793945402 12.03.1960 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 3440563802 24.09.1989 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 3440563802 24.09.1989 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 5869252883 03.05.1966 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 5869252883 03.05.1966 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 5936223600 24.08.1987 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 5936223600 24.08.1987 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 6601262990 07.08.1980 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 6601262990 07.08.1980 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 6907778154 23.12.1992 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 7115576634 08.09.1998 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 8137703183 01.08.1999 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 22.01.2022 8137703183 01.08.1999 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 4903553334 05.06.2019 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 4903553334 05.06.2019 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 4903553334 05.06.2019 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 6998969642 30.09.1997 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 6998969642 30.09.1997 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 6998969642 30.09.1997 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 7371205799 31.05.1996 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 23.01.2022 7371205799 31.05.1996 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 1440671135 27.12.1959 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 1440671135 27.12.1959 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 1440671135 27.12.1959 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 1855015114 26.11.2014 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 2068855568 21.09.1996 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 3444610043 31.08.1995 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 3444610043 31.08.1995 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 5192519462 01.12.2015 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 5744106576 06.01.1978 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 5744106576 06.01.1978 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 5744106576 06.01.1978 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 6405340815 26.10.1980 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 6405340815 26.10.1980 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 6405340815 26.10.1980 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 6415933681 06.11.1997 žena A570D Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 6415933681 06.11.1997 žena L452R Negativní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 6415933681 06.11.1997 žena Y505H Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 7519691234 16.10.1974 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 7519691234 16.10.1974 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 8663046982 11.05.1995 žena Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 9135931641 29.07.1974 muž Del69-70 Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 24.01.2022 9135931641 29.07.1974 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 1005077541 01.08.1996 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 1005077541 01.08.1996 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 2536588744 28.07.1973 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 2536588744 28.07.1973 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 4307509711 01.10.1975 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 4307509711 01.10.1975 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 5112612836 26.11.1988 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 5112612836 26.11.1988 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 6114606264 27.01.1973 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 6114606264 27.01.1973 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 7596164472 29.04.1982 žena K417N Pozitivní KAR-353&Sang Lab – klinická laboratoř s.r.o.&25230271
+ 25.01.2022 7596164472 29.04.1982 žena K417T Negativní KAR-353&Sang Lab – klinická laboratoř s.r.o.&25230271
+ 25.01.2022 7596164472 29.04.1982 žena L452R Negativní KAR-353&Sang Lab – klinická laboratoř s.r.o.&25230271
+ 25.01.2022 7596164472 29.04.1982 žena W152C Negativní KAR-353&Sang Lab – klinická laboratoř s.r.o.&25230271
+ 25.01.2022 7887068954 28.09.1977 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 7887068954 28.09.1977 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 8900265463 10.10.1991 žena E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 8900265463 10.10.1991 žena K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 8953751157 27.11.1971 muž E484K Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
+ 25.01.2022 8953751157 27.11.1971 muž K417N Pozitivní PHA-325&Všeobecná fakultní nemocnice v Praze&64165
