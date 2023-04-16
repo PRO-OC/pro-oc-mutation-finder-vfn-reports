@@ -17,4 +17,4 @@ Tato data obsahují kromě věku (data narození), který NRF ve zprávě k výs
 [Přehledy zpracované Národní referenční laboratoří pro SARS-CoV-2 - NRL pro chřipku](https://dastacr.cz/SARS-CoV-2.html)\
 [Outbreak.info](https://outbreak.info/situation-reports)\
 [virus.img.cas.cz](https://virus.img.cas.cz/)\
-[Obdobný report z Fakultní Nemocnice Bulovka](https://github.com/bulovka/sars-cov-2-mutation-reports)
+[Obdobný report z FNB - Fakultní nemocnice Bulovka](https://github.com/bulovka/sars-cov-2-mutation-reports)
